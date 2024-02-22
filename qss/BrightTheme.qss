@@ -1,0 +1,57 @@
+/*Set the fault mode*/
+*{
+/*word sheet*/
+font-family: "微软雅黑";
+font-size: 15pt;
+
+color: black;
+font-weight: bold;
+}
+
+/*sepcial theme*/
+
+*[style = "h1"]{
+font: bold 12 pt;
+color: #111111;
+}
+
+*[style = "h2"]{
+font: bold 16 pt;
+color: #111111;
+}
+
+*[style = "h3"]{
+font: bold 16 pt;
+color: #555555;
+}
+
+*[style = "h4"]{
+font: bold 16 pt;
+color: #111111;
+}
+/*The normal theme of QLineEdit*/
+QLineEdit{
+	border: 1px solid #cccccc;
+	border-radius: 6px;
+	selection-background-color: darkgray;
+	height: 50px;
+        color: black;
+}
+
+QLineEdit:hover{
+	border-color: #1296db;
+}
+
+/*通用按钮设置*/
+QPushButton{
+	background: transparent;
+	border: 6px solid #bbbbbb;
+        background-color: #bbbbbb;
+	border-radius: 6px;
+	height: 28px;
+	width: 56px;
+}
+QPushButton:hover{
+	color:#90EE90;
+	border-color: #90EE90;
+}

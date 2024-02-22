@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>picture/Cloudy.png</file>
+        <file>picture/Drizzle.png</file>
+        <file>picture/Mist.png</file>
+        <file>picture/Snow.png</file>
+        <file>picture/Squalls.png</file>
+        <file>picture/Thunderstorm.png</file>
+        <file>picture/Tornado.png</file>
+        <file>picture/Rain.png</file>
+        <file>background/Clear.png</file>
+        <file>background/Cloudy.png</file>
+        <file>background/Drizzle.png</file>
+        <file>background/Mist.png</file>
+        <file>background/snow.png</file>
+        <file>background/Thunderstorm.png</file>
+        <file>background/Wind.png</file>
+        <file>picture/Clear.png</file>
+        <file>background/WelcomePageBackground.png</file>
+        <file>qss/BrightTheme.qss</file>
+        <file>qss/DarkTheme.qss</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
